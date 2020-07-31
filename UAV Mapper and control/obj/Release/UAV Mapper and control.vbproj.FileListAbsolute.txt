@@ -1,0 +1,17 @@
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\bin\Release\UAV Mapper and control.exe.config
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\bin\Release\UAV Mapper and control.exe
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\bin\Release\UAV Mapper and control.pdb
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\bin\Release\UAV Mapper and control.xml
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\bin\Release\GMap.NET.Core.dll
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\bin\Release\GMap.NET.WindowsPresentation.dll
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\bin\Release\GMap.NET.WindowsPresentation.xml
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\obj\Release\UAV_Mapper_and_control.Form1.resources
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\obj\Release\UAV_Mapper_and_control.Resources.resources
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\obj\Release\UAV Mapper and control.vbproj.GenerateResource.cache
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\obj\Release\UAV Mapper and control.vbproj.CoreCompileInputs.cache
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\obj\Release\UAV Mapper and control.vbproj.CopyComplete
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\obj\Release\UAV Mapper and control.exe
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\obj\Release\UAV Mapper and control.xml
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\obj\Release\UAV Mapper and control.pdb
+C:\Users\tater\source\repos\UAV Mapper and control\UAV Mapper and control\obj\Release\UAV Mapper and control.vbprojAssemblyReference.cache
